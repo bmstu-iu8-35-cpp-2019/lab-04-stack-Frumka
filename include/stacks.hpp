@@ -1,7 +1,7 @@
 // Copyright 2018 Your Name <your_email>
 
-#ifndef INCLUDE_HEADER_HPP_
-#define INCLUDE_HEADER_HPP_
+#ifndef INCLUDE_STACKS_HPP_
+#define INCLUDE_STACKS_HPP_
 
 
 #include <cstddef>
@@ -169,4 +169,4 @@ public:
 };
 
 
-#endif // INCLUDE_HEADER_HPP_
+#endif //INCLUDE_STACKS_HPP_
